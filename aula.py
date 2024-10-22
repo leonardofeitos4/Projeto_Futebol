@@ -167,4 +167,4 @@ print("Conexão encerrada.")
 
 
 gols_df = pd.read_csv('dados/gols.csv', delimiter=';', encoding='latin1')
-print(gols_df.columns)  # Mostra os nomes das colunas
+print(gols_df.columns)  # Mostra os nomes das coluna
