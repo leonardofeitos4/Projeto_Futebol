@@ -2,6 +2,8 @@
 
 Análise das Estatísticas do Campeonato Brasileiro
 
+Link visualização PowerBi [https://app.powerbi.com/groups/me/reports/95c43997-c2f0-44b2-9b8b-aa4b887b9af4?pbi_source=desktop]
+
 ## Descrição
 
 Este projeto foi desenvolvido para ser apresentado ao professor de Banco de Dados, com o objetivo de analisar as estatísticas do Campeonato Brasileiro. Utilizando dados obtidos do Kaggle, foram adicionadas as tabelas "data" e "clubes" ao banco de dados. 
