@@ -8,7 +8,7 @@ Link visualização PowerBi [https://app.powerbi.com/view?r=eyJrIjoiZjI5NWM0NjQt
 
 Este projeto foi desenvolvido para ser apresentado ao professor de Banco de Dados, com o objetivo de analisar as estatísticas do Campeonato Brasileiro. Utilizando dados obtidos do Kaggle, foram adicionadas as tabelas "data" e "clubes" ao banco de dados. 
 
-Além disso, fizemos modificações nas tabelas existentes — "campeonato_brasileiro", "estatisticas" e "gols" — para que se adequassem melhor aos requisitos da análise. O projeto se propõe a oferecer uma visão detalhada das estatísticas do campeonato, destacando as porcentagens de ganhos e perdas dos times mandantes, tanto em partidas em casa quanto como visitantes, além de calcular a porcentagem de empates.
+Além disso, fiz modificações nas tabelas existentes — "campeonato_brasileiro", "estatisticas" e "gols" — para que se adequassem melhor aos requisitos da análise. O projeto se propõe a oferecer uma visão detalhada das estatísticas do campeonato, destacando as porcentagens de ganhos e perdas dos times mandantes, tanto em partidas em casa quanto como visitantes, além de calcular a porcentagem de empates.
 
 ## Tecnologias Utilizadas
 
