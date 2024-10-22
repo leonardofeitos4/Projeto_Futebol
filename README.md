@@ -3,6 +3,8 @@
 Análise das Estatísticas do Campeonato Brasileiro
 
 Link visualização PowerBi [https://app.powerbi.com/view?r=eyJrIjoiZjI5NWM0NjQtYWExMS00NjFhLWE5MDctYjdiMzdkYzIwODNmIiwidCI6IjVhM2UxZWI5LWM3NzctNDQ1YS04MjQyLWQ4MjVhNDYxYjEyYiJ9]
+![image](https://github.com/user-attachments/assets/c15cbbf5-1690-4100-ac3e-da49587df30c)
+
 
 ## Descrição
 
