@@ -2,7 +2,7 @@
 
 Análise das Estatísticas do Campeonato Brasileiro
 
-Link visualização PowerBi [https://app.powerbi.com/groups/me/reports/95c43997-c2f0-44b2-9b8b-aa4b887b9af4?pbi_source=desktop]
+Link visualização PowerBi [https://app.powerbi.com/view?r=eyJrIjoiZjI5NWM0NjQtYWExMS00NjFhLWE5MDctYjdiMzdkYzIwODNmIiwidCI6IjVhM2UxZWI5LWM3NzctNDQ1YS04MjQyLWQ4MjVhNDYxYjEyYiJ9]
 
 ## Descrição
 
